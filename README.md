@@ -1,15 +1,14 @@
 # Few challenges i've invented in order to improve my Pythonic skills :)
 
-Those challs come as Jupyter Notebooks and make use a few lib such as Numpy, Pandas, Matplotlib...
-[There is a dedicated folder for the projects.](https://github.com/obrunet/my-own-dataquest.io-codes/tree/master/Projects)
-All the "takeaways" (a summary of what has been learnt in each step) are also provided.
+Those challs come as Jupyter Notebooks and make use a few lib...
 
 ### Coding Python Efficiently
 
-* Writing efficient loops
-* Compare C vs Python
-* List Comprehension / Generators
-* Pythonic Code
+* [Writing efficient loops](https://github.com/obrunet/Python-Programming-Efficiently/blob/master/2019_03_27_writing_efficient_loops_in_python.ipynb)
+* [Compare C vs Python](https://github.com/obrunet/Python-Programming-Efficiently/blob/master/2019_03_28_compare_C_and_python.ipynb)
+* [List Comprehension / Generators](https://github.com/obrunet/Python-Programming-Efficiently/blob/master/2019_03_29.list_comprehension_generators.ipynb)
+* [Collections](https://github.com/obrunet/Python-Programming-Efficiently/blob/master/2019_03_29_collections.ipynb)
+* [Pythonic Code](https://github.com/obrunet/Python-Programming-Efficiently/blob/master/2019_03_29_Pythonic_code.ipynb)
 
 ### Exploiting Python Libs
 

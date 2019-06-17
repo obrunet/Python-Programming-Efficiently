@@ -1,6 +1,6 @@
 ## Few challenges i've invented in order to improve my Pythonic skills :)
 
-Those challs come as Jupyter Notebooks and make use a few lib...
+Those challs come as Jupyter Notebooks and make use a few libs...
 
 #### Coding Python Efficiently
 

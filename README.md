@@ -11,7 +11,7 @@ Those challs come as Jupyter Notebooks and make use a few libs...
 * [Pythonic Code](https://github.com/obrunet/Python-Programming-Efficiently/blob/master/2019_03_29_Pythonic_code.ipynb)
 
 #### Exploiting Python Libs
-* Coming soon...
+* Coming soon... in few days
 
 #### Advanced OOP & Functionnal Programming
 * [Object-oriented and functional](https://github.com/obrunet/Python-Programming-Efficiently/blob/master/2019_04_25_OO_and_func_python.ipynb)
@@ -21,4 +21,4 @@ Those challs come as Jupyter Notebooks and make use a few libs...
 * [Example with fractal](https://github.com/obrunet/Python-Programming-Efficiently/blob/master/2019_05_15_functionnal_fractal.ipynb)
 
 #### Intro to Performance Optimization
-* Coming soon...
+* Coming soon... in few days

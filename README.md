@@ -10,9 +10,6 @@ Those challs come as Jupyter Notebooks and make use a few libs...
 * [Collections](https://github.com/obrunet/Python-Programming-Efficiently/blob/master/2019_03_29_collections.ipynb)
 * [Pythonic Code](https://github.com/obrunet/Python-Programming-Efficiently/blob/master/2019_03_29_Pythonic_code.ipynb)
 
-#### Exploiting Python Libs
-* Coming soon... in few days
-
 #### Advanced OOP & Functionnal Programming
 * [Object-oriented and functional](https://github.com/obrunet/Python-Programming-Efficiently/blob/master/2019_04_25_OO_and_func_python.ipynb)
 * [Class inheritance basics in Python](https://github.com/obrunet/Python-Programming-Efficiently/blob/master/2019_04_26_inheritance.ipynb)
@@ -21,4 +18,7 @@ Those challs come as Jupyter Notebooks and make use a few libs...
 * [Example with fractal](https://github.com/obrunet/Python-Programming-Efficiently/blob/master/2019_05_15_functionnal_fractal.ipynb)
 
 #### Intro to Performance Optimization
-* Coming soon... in few days
+* [Time profilling](https://github.com/obrunet/Python_Programming_Efficiently/blob/master/2019_06_01_time_profilling.ipynb)
+* [Memory profilling](https://github.com/obrunet/Python_Programming_Efficiently/blob/master/2019_06_02-memory_profiling.ipynb)
+* [Intro to parallelism](https://github.com/obrunet/Python_Programming_Efficiently/blob/master/2019_06_05_intro_to_parallelism.ipynb)
+* [Parallel search](https://github.com/obrunet/Python_Programming_Efficiently/blob/master/2019_06_15_parallel_search.ipynb)
